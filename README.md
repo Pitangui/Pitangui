@@ -1,1 +1,1 @@
-### Olá! Eu sou o João mais conhecido como Pitangui
+### Olá! Eu sou o João Pitangui
