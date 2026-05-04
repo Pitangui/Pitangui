@@ -1,4 +1,4 @@
-### Estagiário em IA (Visão Computacional / PDI) na HPE Automotores do Brasil Ltda.
+### Estagiário de P&D em Inteligência Artificial na HPE Automotores do Brasil Ltda.
 <br>
 <div> 
   <a href="https://www.instagram.com/jgabriel_pitangui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
